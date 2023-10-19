@@ -1,0 +1,23 @@
+.pic{
+    margin-top: 0%;
+    width: auto;
+    float: left;
+}
+
+.h4{
+    margin: 0%;
+    background-color: rgba(39, 141, 172, 0.74);
+}
+
+.click{
+    background-color: white;
+    color: black;
+    border: 50 solid;
+    font: size 30px;
+    padding: 10px 10px ;
+}
+ 
+.click:hover{
+    -webkit-transition-duration: 1s; 
+    transition-duration: 1s;
+}
